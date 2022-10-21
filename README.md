@@ -1,4 +1,4 @@
-# AdminDashboard
+# Simple Admin Dashboard Template
 Simple admin dashboard template using HTML, CSS. 
 
 Plantilla simple de un dashboard de administración usando CSS y HTML. 
